@@ -1,0 +1,14 @@
+table,th,td
+{
+    border: 2px solid blue;
+}
+
+/* body{
+    background-color: yellow;
+} */
+
+body{
+    background-image: url('https://img.freepik.com/free-vector/coloured-blurred-background_1112-511.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
